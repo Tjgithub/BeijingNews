@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <!-- 不设置也可以  一般不起作用，根据容器大小来设定， 也有可能进行拉伸-->
+    <size android:height="10dp" android:width="10dp"/>
+    <solid android:color="@android:color/holo_red_light"/>
+</shape>
